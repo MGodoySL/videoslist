@@ -1,4 +1,4 @@
-# Organo
+# Alura Play
 
 Projeto desenvolvido durante o curso JavaScript: Criando requisições
 
